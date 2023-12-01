@@ -3,7 +3,7 @@
 
 ```bash
 git init
-git remote add origin Https_du_depots
+git remote add origin ssh_du_depots
 ```
 ## Envoyer un comit sur un depôt distant
 ```bash
