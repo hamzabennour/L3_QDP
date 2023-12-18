@@ -13,6 +13,10 @@
 
 class monstres : public personnages{
 
+public:
+    void attaque()  override;
+private:
+
 };
 
 
