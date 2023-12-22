@@ -16,4 +16,6 @@ add_executable(App_Aventurier_jeu
         testaventuriers.cpp
         monstres.h
         monstres.cpp
+        equipements.cpp
+        testarmures.cpp
 )

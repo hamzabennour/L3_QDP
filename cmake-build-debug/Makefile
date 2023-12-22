@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.3.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu
+CMAKE_SOURCE_DIR = C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -200,6 +200,30 @@ elements.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.s
 .PHONY : elements.cpp.s
 
+equipements.obj: equipements.cpp.obj
+.PHONY : equipements.obj
+
+# target to build an object file
+equipements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj
+.PHONY : equipements.cpp.obj
+
+equipements.i: equipements.cpp.i
+.PHONY : equipements.i
+
+# target to preprocess a source file
+equipements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.i
+.PHONY : equipements.cpp.i
+
+equipements.s: equipements.cpp.s
+.PHONY : equipements.s
+
+# target to generate assembly for a file
+equipements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.s
+.PHONY : equipements.cpp.s
+
 monstres.obj: monstres.cpp.obj
 .PHONY : monstres.obj
 
@@ -248,6 +272,30 @@ personnages.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.s
 .PHONY : personnages.cpp.s
 
+test_armures.obj: test_armures.cpp.obj
+.PHONY : test_armures.obj
+
+# target to build an object file
+test_armures.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj
+.PHONY : test_armures.cpp.obj
+
+test_armures.i: test_armures.cpp.i
+.PHONY : test_armures.i
+
+# target to preprocess a source file
+test_armures.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.i
+.PHONY : test_armures.cpp.i
+
+test_armures.s: test_armures.cpp.s
+.PHONY : test_armures.s
+
+# target to generate assembly for a file
+test_armures.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.s
+.PHONY : test_armures.cpp.s
+
 testaventuriers.obj: testaventuriers.cpp.obj
 .PHONY : testaventuriers.obj
 
@@ -290,12 +338,18 @@ help:
 	@echo ... elements.obj
 	@echo ... elements.i
 	@echo ... elements.s
+	@echo ... equipements.obj
+	@echo ... equipements.i
+	@echo ... equipements.s
 	@echo ... monstres.obj
 	@echo ... monstres.i
 	@echo ... monstres.s
 	@echo ... personnages.obj
 	@echo ... personnages.i
 	@echo ... personnages.s
+	@echo ... test_armures.obj
+	@echo ... test_armures.i
+	@echo ... test_armures.s
 	@echo ... testaventuriers.obj
 	@echo ... testaventuriers.i
 	@echo ... testaventuriers.s

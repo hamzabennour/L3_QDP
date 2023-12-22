@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug"/>
+				<Option working_dir="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="App_Aventurier_jeu">
-				<Option output="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/App_Aventurier_jeu.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug"/>
+				<Option output="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/App_Aventurier_jeu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 App_Aventurier_jeu"/>
-					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 App_Aventurier_jeu"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="App_Aventurier_jeu/fast">
-				<Option output="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/App_Aventurier_jeu.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug"/>
+				<Option output="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/App_Aventurier_jeu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,70 +55,79 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 App_Aventurier_jeu/fast"/>
-					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 App_Aventurier_jeu/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug"/>
+				<Option working_dir="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug"/>
+				<Option working_dir="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2023.3.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/TestEpee.cpp">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/TestEpee.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/aventuriers.cpp">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/aventuriers.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/aventuriers.h">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/aventuriers.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/doctest.h">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/doctest.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/elements.cpp">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/elements.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/elements.h">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/elements.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/monstres.cpp">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/equipements.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/monstres.h">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/equipements.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/personnages.cpp">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/monstres.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/personnages.h">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/monstres.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/testaventuriers.cpp">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/personnages.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/testaventuriers.h">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/personnages.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/CMakeLists.txt">
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/test_armures.cpp">
+			<Option target="App_Aventurier_jeu"/>
+		</Unit>
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/testaventuriers.cpp">
+			<Option target="App_Aventurier_jeu"/>
+		</Unit>
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/testaventuriers.h">
+			<Option target="App_Aventurier_jeu"/>
+		</Unit>
+		<Unit filename="C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

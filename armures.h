@@ -1,18 +1,20 @@
-//
-// Created by agbek on 02/12/2023.
-//
-
-#ifndef APP_AVENTURIER_JEU_ARMURES_H
-#define APP_AVENTURIER_JEU_ARMURES_H
+#ifndef ARMURES_H
+#define ARMURES_H
 
 #include "equipements.h"
 
-/*
- * une armure est aussi un equipement
- * */
-class armures : public equipements{
+class Armure : public Equipement {
+public:
+    Armure(int soliditeArmure);
 
+    int getSolidite() const override;
+    bool estDetruit() const override;
+    void utiliser() override;
+    void recupererSolidite(int pointsRecuperation) override;
+
+private:
+    int d_solidite;
+    bool d_detruit;
 };
 
-
-#endif //APP_AVENTURIER_JEU_ARMURES_H
+#endif // ARMURES_H

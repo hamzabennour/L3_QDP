@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.3.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu
+CMAKE_SOURCE_DIR = C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/App_Aventurier_jeu.dir/depend.make
@@ -69,88 +69,116 @@ include CMakeFiles/App_Aventurier_jeu.dir/progress.make
 include CMakeFiles/App_Aventurier_jeu.dir/flags.make
 
 CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
-CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj: C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/elements.cpp
+CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/elements.cpp
 CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.obj -c C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\elements.cpp
 
 CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.i"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\elements.cpp > CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\elements.cpp > CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.i
 
 CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/elements.cpp.s"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\elements.cpp -o CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\elements.cpp -o CMakeFiles\App_Aventurier_jeu.dir\elements.cpp.s
 
 CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
-CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj: C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/TestEpee.cpp
+CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/TestEpee.cpp
 CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.obj -c C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\TestEpee.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\TestEpee.cpp
 
 CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.i"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\TestEpee.cpp > CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\TestEpee.cpp > CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.i
 
 CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/TestEpee.cpp.s"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\TestEpee.cpp -o CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\TestEpee.cpp -o CMakeFiles\App_Aventurier_jeu.dir\TestEpee.cpp.s
 
 CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
-CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj: C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/personnages.cpp
+CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/personnages.cpp
 CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.obj -c C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\personnages.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\personnages.cpp
 
 CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.i"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\personnages.cpp > CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\personnages.cpp > CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.i
 
 CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.s"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\personnages.cpp -o CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\personnages.cpp -o CMakeFiles\App_Aventurier_jeu.dir\personnages.cpp.s
 
 CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
-CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj: C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/aventuriers.cpp
+CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/aventuriers.cpp
 CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.obj -c C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\aventuriers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\aventuriers.cpp
 
 CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.i"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\aventuriers.cpp > CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\aventuriers.cpp > CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.i
 
 CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.s"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\aventuriers.cpp -o CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\aventuriers.cpp -o CMakeFiles\App_Aventurier_jeu.dir\aventuriers.cpp.s
 
 CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
-CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj: C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/testaventuriers.cpp
+CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/testaventuriers.cpp
 CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.obj -c C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\testaventuriers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\testaventuriers.cpp
 
 CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.i"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\testaventuriers.cpp > CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\testaventuriers.cpp > CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.i
 
 CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.s"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\testaventuriers.cpp -o CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\testaventuriers.cpp -o CMakeFiles\App_Aventurier_jeu.dir\testaventuriers.cpp.s
 
 CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
-CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj: C:/Users/HP/Desktop/Projet_Git/App.Aventurier.jeu/monstres.cpp
+CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/monstres.cpp
 CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.obj -c C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\monstres.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\monstres.cpp
 
 CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.i"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\monstres.cpp > CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\monstres.cpp > CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.i
 
 CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.s"
-	"C:\PROGRA~1\JetBrains\CLion 2023.3.1\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\monstres.cpp -o CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\monstres.cpp -o CMakeFiles\App_Aventurier_jeu.dir\monstres.cpp.s
+
+CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
+CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/equipements.cpp
+CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\equipements.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\equipements.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\equipements.cpp
+
+CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\equipements.cpp > CMakeFiles\App_Aventurier_jeu.dir\equipements.cpp.i
+
+CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\equipements.cpp -o CMakeFiles\App_Aventurier_jeu.dir\equipements.cpp.s
+
+CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/flags.make
+CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj: C:/Users/balde/Desktop/examen_programmation/App.Aventurier.jeu/test_armures.cpp
+CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj: CMakeFiles/App_Aventurier_jeu.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj -MF CMakeFiles\App_Aventurier_jeu.dir\test_armures.cpp.obj.d -o CMakeFiles\App_Aventurier_jeu.dir\test_armures.cpp.obj -c C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\test_armures.cpp
+
+CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\test_armures.cpp > CMakeFiles\App_Aventurier_jeu.dir\test_armures.cpp.i
+
+CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\test_armures.cpp -o CMakeFiles\App_Aventurier_jeu.dir\test_armures.cpp.s
 
 # Object files for target App_Aventurier_jeu
 App_Aventurier_jeu_OBJECTS = \
@@ -159,7 +187,9 @@ App_Aventurier_jeu_OBJECTS = \
 "CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj" \
 "CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj" \
 "CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj" \
-"CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj"
+"CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj" \
+"CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj" \
+"CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj"
 
 # External object files for target App_Aventurier_jeu
 App_Aventurier_jeu_EXTERNAL_OBJECTS =
@@ -170,11 +200,13 @@ App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/personnages.cpp.obj
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/aventuriers.cpp.obj
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/monstres.cpp.obj
+App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/equipements.cpp.obj
+App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/test_armures.cpp.obj
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/build.make
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/linkLibs.rsp
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/objects1.rsp
 App_Aventurier_jeu.exe: CMakeFiles/App_Aventurier_jeu.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable App_Aventurier_jeu.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable App_Aventurier_jeu.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\App_Aventurier_jeu.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -186,6 +218,6 @@ CMakeFiles/App_Aventurier_jeu.dir/clean:
 .PHONY : CMakeFiles/App_Aventurier_jeu.dir/clean
 
 CMakeFiles/App_Aventurier_jeu.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug C:\Users\HP\Desktop\Projet_Git\App.Aventurier.jeu\cmake-build-debug\CMakeFiles\App_Aventurier_jeu.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug C:\Users\balde\Desktop\examen_programmation\App.Aventurier.jeu\cmake-build-debug\CMakeFiles\App_Aventurier_jeu.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/App_Aventurier_jeu.dir/depend
 
