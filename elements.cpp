@@ -1,9 +1,16 @@
-//
-// Created by dell on 15/12/2023.
-//
-
 #include "elements.h"
 
+
+elements::elements(int x, int y):d_x{x},d_y{y}
+{}
+
+void elements::setX(int x) {
+    d_x =x;
+}
+
+void elements::setY(int y) {
+    d_y =y;
+}
 int elements::x() const {
     return d_x;
 }

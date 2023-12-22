@@ -9,6 +9,10 @@
 
 class elements {
 public:
+    virtual ~elements() = default;
+    elements(int x,int y);
+    void setX(int x);
+    void setY(int y);
     int x() const;
     int y() const;
     virtual void affiche() const =0;//franchement je ne sais pas trop, est ce qu'on doit afficher
@@ -19,6 +23,6 @@ private:
     int d_y;
 
 };
-
+//je pense que l'on peut rien tester sur une classe qui n'est pas instanciable ?????
 
 #endif //APP_AVENTURIER_JEU_DEVELOP_ELEMENTS_H

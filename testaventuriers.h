@@ -1,0 +1,14 @@
+//
+// Created by dell on 21/12/2023.
+//
+
+#ifndef APP_AVENTURIER_JEU_TESTAVENTURIERS_H
+#define APP_AVENTURIER_JEU_TESTAVENTURIERS_H
+
+
+class testaventuriers {
+
+};
+
+
+#endif //APP_AVENTURIER_JEU_TESTAVENTURIERS_H
