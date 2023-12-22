@@ -1,4 +1,15 @@
 #Documentation du projet
+## utilisation de la bibliothèque pdcurses
+```bash
+- installation des paquet dans Mingw
+    mingw32-libncurses (dll)
+    mingw32-libncurses (dev)
+    mingw32-libpdcurses (dll)
+    mingw32-libpdcurses (dev)
+-compilation du projet avec la commande 
+    "g++ main.c -lpdcurses"
+```
+
 ## initialiser un dépot
 
 ```bash

@@ -18,4 +18,8 @@ add_executable(App_Aventurier_jeu
         monstres.cpp
         equipements.cpp
         testarmures.cpp
+        terrain.cpp
+        affichages.h
+        card.cpp
+        salles.cpp
 )
