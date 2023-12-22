@@ -7,7 +7,7 @@ add_executable(App_Aventurier_jeu
         elements.h
         elements.cpp
         doctest.h
-        maintest.cpp
+        TestEpee.cpp
         personnages.h
         personnages.cpp
         aventuriers.h
