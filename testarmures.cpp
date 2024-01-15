@@ -1,6 +1,6 @@
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "doctest.h"
-#include "armures.h"
+#include "../armures.h"
 
 TEST_CASE("Test de la classe Armure") {
     SUBCASE("Test du constructeur") {

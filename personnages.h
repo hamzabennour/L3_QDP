@@ -5,7 +5,7 @@
 #ifndef APP_AVENTURIER_JEU_PERSONNAGES_H
 #define APP_AVENTURIER_JEU_PERSONNAGES_H
 
-#include "elements.h"
+#include "../elements.h"
 
 class personnages: public elements {
 public:
@@ -22,7 +22,7 @@ public:
     int pointVie() const;
     int pointForce() const;
     //virtual void estAttaque()=0;//aussi ça attaque de l'adverssaire va appeler ça ????
-    //virtual void seDeplace()=0; //je ne sais pas non plus si elle va prendre des paramètres, let's see
+    virtual void seDeplace()=0; //je ne sais pas non plus si elle va prendre des paramètres, let's see
     //pas que concernant les paramètres mais aussi concernant le fait qu'il ai un classe avant personnage
     //cette classe qui aura deplace et qui sera abstraite est ce une bonne idée
     //virtual void affiche() const; //wait c'est quoi la convention entre infinitif et le reste

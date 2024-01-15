@@ -100,9 +100,6 @@
 		<Unit filename="C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu/card.h">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
-		<Unit filename="C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu/doctest.h">
-			<Option target="App_Aventurier_jeu"/>
-		</Unit>
 		<Unit filename="C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu/elements.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
@@ -146,6 +143,9 @@
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
 		<Unit filename="C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu/testaventuriers.h">
+			<Option target="App_Aventurier_jeu"/>
+		</Unit>
+		<Unit filename="C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu/testmain.cpp">
 			<Option target="App_Aventurier_jeu"/>
 		</Unit>
 		<Unit filename="C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu/CMakeLists.txt">

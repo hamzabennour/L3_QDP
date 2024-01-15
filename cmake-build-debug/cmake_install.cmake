@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/agbek/OneDrive/Bureau/aventurier/App.Aventurier.jeu
+# Install script for directory: C:/Users/agbek/OneDrive/Bureau/aventurier/backup
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

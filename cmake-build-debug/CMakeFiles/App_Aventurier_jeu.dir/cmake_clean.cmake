@@ -24,6 +24,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/App_Aventurier_jeu.dir/testarmures.cpp.obj.d"
   "CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj"
   "CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.obj.d"
+  "CMakeFiles/App_Aventurier_jeu.dir/testmain.cpp.obj"
+  "CMakeFiles/App_Aventurier_jeu.dir/testmain.cpp.obj.d"
   "libApp_Aventurier_jeu.dll.a"
 )
 

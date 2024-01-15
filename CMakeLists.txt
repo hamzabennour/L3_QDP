@@ -4,9 +4,6 @@ project(App_Aventurier_jeu)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(App_Aventurier_jeu
-        elements.h
-        elements.cpp
-        doctest.h
         TestEpee.cpp
         personnages.h
         personnages.cpp
@@ -14,12 +11,14 @@ add_executable(App_Aventurier_jeu
         aventuriers.cpp
         testaventuriers.h
         testaventuriers.cpp
-        monstres.h
-        monstres.cpp
-        equipements.cpp
+        ../monstres.h
+        ../monstres.cpp
+        ../equipements.cpp
         testarmures.cpp
         terrain.cpp
         affichages.h
         card.cpp
         salles.cpp
+        testmain.cpp
+        testmain.cpp
 )

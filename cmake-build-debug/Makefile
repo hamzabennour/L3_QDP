@@ -392,6 +392,30 @@ testaventuriers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/testaventuriers.cpp.s
 .PHONY : testaventuriers.cpp.s
 
+testmain.obj: testmain.cpp.obj
+.PHONY : testmain.obj
+
+# target to build an object file
+testmain.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/testmain.cpp.obj
+.PHONY : testmain.cpp.obj
+
+testmain.i: testmain.cpp.i
+.PHONY : testmain.i
+
+# target to preprocess a source file
+testmain.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/testmain.cpp.i
+.PHONY : testmain.cpp.i
+
+testmain.s: testmain.cpp.s
+.PHONY : testmain.s
+
+# target to generate assembly for a file
+testmain.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App_Aventurier_jeu.dir\build.make CMakeFiles/App_Aventurier_jeu.dir/testmain.cpp.s
+.PHONY : testmain.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -434,6 +458,9 @@ help:
 	@echo ... testaventuriers.obj
 	@echo ... testaventuriers.i
 	@echo ... testaventuriers.s
+	@echo ... testmain.obj
+	@echo ... testmain.i
+	@echo ... testmain.s
 .PHONY : help
 
 
